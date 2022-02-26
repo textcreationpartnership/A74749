@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good news for England or, A relation of more victories obtained by the Sweads, against the King of Denmarke. Certified in severall letters of good credit, dated at Hamborough, January 16 &amp; 19, 1644.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74749</idno>
+            <idno type="STC">Thomason E31_19</idno>
+            <idno type="STC">ESTC R14210</idno>
+            <idno type="EEBO-CITATION">99859627</idno>
+            <idno type="PROQUEST">99859627</idno>
+            <idno type="VID">111722</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111722)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E31[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good news for England or, A relation of more victories obtained by the Sweads, against the King of Denmarke. Certified in severall letters of good credit, dated at Hamborough, January 16 &amp; 19, 1644.</title>
+                  <author>Torstenson, Lennart, greve av Ortala, 1603-1651.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XLIIII [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A copy of a letter sent by .. General Torstensohn": p. [6].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Thomason annotation: the 4 in imprint date is crossed out and altered to 1643; "Feb. 7th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kőnigsmarck, Hans Christoff, 1605-1663.</term>
+               <term>Sweden --  History --  Christina, 1632-1654.</term>
+               <term>Denmark --  History --  Christian IV, 1588-1648.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111722:1" rendition="simple:additions"/>
+            <p>Good News FOR ENGLAND OR, A RELATION OF MORE VICTORIES OBTAINED BY THE SWEADS, AGAINST THE KING OF <hi>DENMARKE.</hi>
+            </p>
+            <p>Certified in ſeverall Letters of good Credit, dated at Hamborough, January, 16 &amp; 19, 1644.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>Robert Boſtock,</hi> MDCXLIIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111722:2" rendition="simple:additions"/>
+            <head>
+               <hi>A Relation of the victory, which the</hi> Sweads have had againſt the King of Den<g ref="char:EOLhyphen"/>markes Forces in Jutland, As wee have it by Letters of good credit, from Hamborough, da<g ref="char:EOLhyphen"/>ted, Jan. 16 &amp; 19.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat ſucceſſe the Swedes have had in the King of Den<g ref="char:EOLhyphen"/>marks Dominions, you have heard of it heretofore, I muſt acquaint you now with a further progreſs they have made. The Swediſh Generall Major Coningſmarck having quartered for a time in the Biſhopricke of Hildeſheim, is now drawing with his forces into the Biſhoprick of Bremen, the Biſhop, who is ſecond ſonne to the King of Denmarke, being fled from Bremerfend to Stoad, the Swediſh forces go on in taking one place after another to Hol<g ref="char:EOLhyphen"/>ſtein and Iutland, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing all under con<g ref="char:EOLhyphen"/>tribution, till froſt came, <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the marſh grounds, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:111722:3"/> poſſeſſed themſelves thereof, yet was with<g ref="char:EOLhyphen"/>out blows, the peaſants in the place called Wilſter, had laid two Sconces upon the paſ<g ref="char:EOLhyphen"/>ſage, which were aſſaulted by the Swediſh forces, whom they of Gluekſtatt, under<g ref="char:EOLhyphen"/>ſtanding, ſent out a Captain with 100 men to aſsiſt them, but comming too late, the Swedes being Maſter of the firſt Sconce, the ſouldiers retired to the other Sconce, to join with them that kept it, but contrary to ex<g ref="char:EOLhyphen"/>pectation, they finde that place forſaken by the peaſants, ſo they in good time ſhifted for themſelves, but were taken ſhort, their Lievtenant ſlaine: This day alſo wee have news, that the Swediſh forces have made themſelves maſter of Ditmarſh, there being ſome 150 peaſants ſlain, 300 taken priſoners, and ſome 200 fouldiers, that did aſsiſt them, have taken ſervice under the Swedes: Wee have likewiſe newes this day, that the 600 leuied horſe of the King of Denmark, which lay in Iutland, having joyned with the Gen<g ref="char:EOLhyphen"/>try of the Country and Sleſwyck being to<g ref="char:EOLhyphen"/>gether ſtrong 1600 horſe, and foure compa<g ref="char:EOLhyphen"/>nies of leavied foot are wholly routed by the Swedes, at a place called Colding, the chiefe
+<pb facs="tcp:111722:3"/> commander taken priſoner, together with eight captains more, and 400 ſlaine in the place, in ſo much that the King of Denmark will loſe now all on this ſide the Beldt, and Gluekſtatt will run now a great hazard. Wee We have alſo news from Sweden by a ſhip, that came in eight dayes from thence to Lu<g ref="char:EOLhyphen"/>beck, that they have confiſcated all Deaniſh goods in that Kingdome, and that Guſtavus Horn was marchlng with an army of 20000 men into Schoven, which lyes on the other ſide of Denmark, inſomuch that the King of Denmark will ſhortly be forced to ſay fare<g ref="char:EOLhyphen"/>well Sound, but they that are good Danish ſay, that Commiſsioners of both Kingdoms are to meet the 15 preſent at Colmar, to ac<g ref="char:EOLhyphen"/>commodate matters.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:111722:4"/>
+            <head>A COPY OF A LETTER ſent by his Excellencie the Swedish Generall Torſtenſohn to Generall Major Mortagne, bearing date in the head Quarter Mid<g ref="char:EOLhyphen"/>dlefart Sconce, the 14 of Jan. 1644.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>Y</hi> expedition againſt the Danish horſe, <hi>I</hi> have communicated unto you in my last letter, where<g ref="char:EOLhyphen"/>upon <hi>I</hi> preſently advan<g ref="char:EOLhyphen"/>ced and ſate before the Campe, which they had pitched here, into which the Danish horſemen had retired, which having left there behind them their horſes went in boats over the water, in the Campe a conſiderable number both of leaied ſouldi<g ref="char:EOLhyphen"/>ers, and of the Peaſants was drawn to<g ref="char:EOLhyphen"/>gether, and for three or four dayes toge<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:111722:4"/> 
+               <hi>I</hi> cauſed the Campe fiercely to hee battered with the Cannons, meanwhile the Danish <hi>RIX MARSHALL ANERTW BILL</hi> who was then there, betooke himſelfe with the Cannons, Co<g ref="char:EOLhyphen"/>lours, chiefeſt Officers, and the leaſt part of the Common Souldiers to Mit<g ref="char:EOLhyphen"/>tlefahrt leaving behinde him in the Campe the moſt part of the Souldiers, to<g ref="char:EOLhyphen"/>gether with ſome Captains and under Officers: But when this day <hi>I</hi> advanced with the main ſtrength of my Forces to<g ref="char:EOLhyphen"/>wards it, and the Forces that lay in the Sconce, ſaw the ſtrength of my Forces, they threw away their armes, and came running out of the Camp to meet us, in<g ref="char:EOLhyphen"/>ſomuch that the moſt High God ſhewed us that favour, that together with a great part of the Horſmen; we took alſo <hi>4500</hi> foot (amongſt which were a <hi>1000</hi> leavied Souldiers, which tooke all ſervice under
+<pb facs="tcp:111722:5"/> us) without any loſse, onely ſome few were wounded, amongſt which was an Enſigne but the Peaſants, which were mounted by the Gentry, were ſtript by ſome of our naked Souldiers, and turned home, ſome of them freely deſired to ſerve under us; being now the Daniſh Forces are here by for the moſt part ruinated, and this Country freed and cleered, that by Gods aſsiſtance We need not to fear them, that on this ſide they will do us any hurt, for which fundamentall blovv vvee ought to give hearty thanks unto God Almightie, The Regiments are novv gone to their quarters, vvhich <hi>I</hi> thought to communi<g ref="char:EOLhyphen"/>cate unto you, &amp;c.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
